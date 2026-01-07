@@ -7,11 +7,6 @@ packages:
   gitUrl: https://github.com/Pooja-Anand-IBM-2
   gitUsername: Pooja-Anand-IBM-2
   gitBranch: main
-- name: Default
-  gitServerName: p1
-  gitUrl: https://github.com/Pooja-Anand-IBM-2
-  gitUsername: Pooja-Anand-IBM-2
-  gitBranch: main
 configurationVariables:
   jdbc.Embedded-Database-Pool.waitingThread: "0"
   jdbcfunc.ISDashboardStats.failFastMode: false
